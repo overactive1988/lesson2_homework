@@ -188,7 +188,7 @@ img{
       -ms-flex-pack:center;
           justify-content:center;
   height:956px;
-  background:url("/assets/images/mv_bg.png") top center no-repeat;
+  background:url("../images/mv_bg.png") top center no-repeat;
   background-size:cover;
   -webkit-transition:height 0.3s;
   -o-transition:height 0.3s;
